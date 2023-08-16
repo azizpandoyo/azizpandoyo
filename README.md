@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Petroleum Engineering on Universitas Pertamina
+- 🌱 I’m currently learning Machine Learning in Bangkit Academy 2023 Batch 2
+- 💬 Ask me about Petroleum or Machine Learning, hope i can help
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammadabdulaziz)
+- ⚡ Fun fact: I like to write and read poetry
+
 <!--
 **azizpandoyo/azizpandoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
