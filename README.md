@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Petroleum Engineering on Universitas Pertamina
-- 🌱 I’m currently learning Machine Learning in Bangkit Academy 2023 Batch 2
+- 🔭 I have graduated from Petroleum Engineering on Universitas Pertamina
+- 🌱 I have graduated from Machine Learning in Bangkit Academy 2023 Batch 2
 - 💬 Ask me about Petroleum or Machine Learning, hope i can help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammadabdulaziz)
-- ⚡ Fun fact: I like to write and read poetry
+- ⚡ Fun fact: I like to write and read poetry, and also photography
 
 <p align="left">
 <a href="https://github.com/azizpandoyo">
